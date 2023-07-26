@@ -16,8 +16,6 @@
 - I am an experienced software developer with well-developed skills and experience, hardworking, honest individual, good timekeeper
        and friendly person and experienced in web development with Microsoft using C#, (Model View Controller) ASP, MVC and SQL server 
        and Mobile Developer Xamarin.
--
-
 
 ### Connect with Me :
 <a href="https://www.linkedin.com/in/nihal-salah-880394112/">Nihal Salah</a>
